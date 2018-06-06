@@ -1,3 +1,4 @@
+import index from "./js/index"
 console.log(`I'm a silly entry point`);
 
 const arr = [1, 2, 3];
